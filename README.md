@@ -7,7 +7,7 @@ Axios, bootstrap and reactstrap are used together with React for the fronend.
 
 Run the Django server by activating a virtual environment using "pipenv" and using "pipenv install" to install required backend packages inside the directory with the pipfile.lock and go to the backend directory , run "$ python manage.py runserver "
 
-Then ...
+Then in the frontend folder install the necessary packages on package.json and 
 
 
 ### `npm start`
