@@ -5,7 +5,7 @@ Django , djangoforest framework , django-cors-headers  are used for the backend.
 
 Axios, bootstrap and reactstrap are used together with React for the fronend.
 
-Run the Django server by activating a virtual environment using "pipenv" inside the whole project directory and going to the backend directory and running "$ python manage.py runserver "
+Run the Django server by activating a virtual environment using "pipenv" and using "pipenv install" to install required backend packages inside the directory with the pipfile.lock and go to the backend directory , run "$ python manage.py runserver "
 
 Then ...
 
